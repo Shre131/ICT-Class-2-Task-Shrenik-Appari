@@ -1,0 +1,34 @@
+*{
+    background-color: black;
+}
+
+h1{background-color: cyan; padding-top: 15px;padding-bottom: 15px;}
+
+.para{
+    color:red;
+    text-align: center;
+    font-family: cursive;
+    background-color: cyan;
+}
+
+.aboutme{
+    color:white;
+    font-family: cursive;
+    font-weight: 300;
+    text-align: center;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    opacity:0.5;
+}
+
+.image:hover{
+    opacity:1;
+}
+
+a{
+    background-color: cyan;
+    
+}
